@@ -1,30 +1,34 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/directv.com.xml,https://iptv-org.github.io/epg/guides/en/i.mjh.nz.xml,https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml,https://iptv-org.github.io/epg/guides/en/watchyour.tv.xml"
+#EXTM3U
 #EXTINF:-1 tvg-id="247Retro.us" tvg-logo="https://i.imgur.com/QqQL7ss.png" group-title="Classic",247 Retro TV (432p) [Not 24/7]
 http://hlsdpi-cdn-chqtx02.totalstream.net/dpilive/247retro/ret/dai/playlist.m3u8
+#EXTINF:-1 tvg-id="CadenaCoversClasicos.ar" tvg-logo="https://i.imgur.com/CC1MFt6.png" group-title="Classic;Music",Cadena Cover's Clásicos (360p)
+https://bamus-spa-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ChickenSoupfortheSoul.us" tvg-logo="https://i.imgur.com/IRhW5Lz.png" group-title="Classic",Chicken Soup For The Soul (1080p)
+https://dai.google.com/linear/hls/event/2C5P0JGUSj65s8KpeyIDcQ/master.m3u8
 #EXTINF:-1 tvg-id="CinevaultWesterns.us" tvg-logo="https://i.imgur.com/K1W137J.png" group-title="Classic",Cinevault Westerns (540p)
 https://20995731713c495289784ab260b3c830.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_CinevaultWesterns/playlist.m3u8
 #EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-logo="https://i.imgur.com/M6FFkc3.png" group-title="Classic",Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 #EXTINF:-1 tvg-id="ClassicCinema.us" tvg-logo="https://i.imgur.com/FJoPnTb.png" group-title="Classic",Classic Cinema (240p) [Not 24/7]
 https://rpn1.bozztv.com/36bay2/gusa-classiccinema/mono.m3u8
-#EXTINF:-1 tvg-id="CTVClassic.tw" tvg-logo="https://i.imgur.com/0TKW4q9.png" group-title="Classic",CTV Classic (中視經典台) (720p)
-http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?ct=18335&tid=mffe9aaf8765f&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
 #EXTINF:-1 tvg-id="DickCavett.us" tvg-logo="https://i.imgur.com/3qTOYwk.png" group-title="Classic",Dick Cavett (768p)
 https://dai.google.com/linear/hls/event/-NacIpMDTZ2y1bhkJN96Vg/master.m3u8
 #EXTINF:-1 tvg-id="DubaiZaman.ae" tvg-logo="https://i.imgur.com/5Q5qMzP.png" group-title="Classic",Dubai Zaman (1080p) [Not 24/7]
 https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="FilmRiseClassicTV.us" tvg-logo="https://i.imgur.com/dXpn7Xv.png" group-title="Classic",FilmRise Classic TV (720p) [Not 24/7]
-https://dai.google.com/linear/hls/event/hW5jMh7dTRK1UXW5fTH07A/master.m3u8
+#EXTINF:-1 tvg-id="FilmRiseClassicTV.us" tvg-logo="https://i.imgur.com/dXpn7Xv.png" group-title="Classic",FilmRise Classic TV on Redbox (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmriseclassictv/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="FolkTV.us" tvg-logo="https://i.imgur.com/hV46zMX.png" group-title="Classic",Folk TV
 http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="GEMClassic.ir" tvg-logo="https://i.imgur.com/25BhuOf.png" group-title="Classic",GEM Classic (480p)
+https://hd.90minlive.online/live/gemclass/playlist.m3u8
 #EXTINF:-1 tvg-id="WTLHDT1.us" tvg-logo="https://i.imgur.com/S2zlGZK.png" group-title="Classic",Heroes & Icons Tallahassee FL (WTLH1) (720p)
 https://5e6cea03e25b6.streamlock.net/live/HI.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="HonorTV.us" tvg-logo="https://i.imgur.com/ndNXGbD.png" group-title="Classic",Honor TV (720p)
 https://a.jsrdn.com/broadcast/d5b48/+0000/c.m3u8
-#EXTINF:-1 tvg-id="JohnnyCarsonTV.us" tvg-logo="https://i.imgur.com/KBTqpJ7.png" group-title="Classic",Johnny Carson TV (1080p)
-https://johnnycarson-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-johnnycarson-redbox/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="LoneStar.us" tvg-logo="https://od.lk/s/MF8yMzMxMzM1NzJf/LoneStar_250x250.png" group-title="Classic",Lone Star (1080p)
-https://lonestar-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="JohnnyCarsonTV.us" tvg-logo="https://i.imgur.com/KBTqpJ7.png" group-title="Classic",Johnny Carson TV
+https://amg00163-shoutfactory-johnnycarson-dmr-xydqu.amagi.tv/playlist/amg00163-shoutfactory-johnnycarson-dmr/playlist.m3u8
+#EXTINF:-1 tvg-id="LoneStar.us" tvg-logo="https://od.lk/s/MF8yMzMxMzM1NzJf/LoneStar_250x250.png" group-title="Classic",Lone Star (960p)
+https://a.jsrdn.com/broadcast/5oWx2VgEmK/+0000/c.m3u8
 #EXTINF:-1 tvg-id="PersianaNostalgia.fr" tvg-logo="https://i.imgur.com/SWO9CKA.png" group-title="Classic;Music",Persiana Nostalgia (720p)
 http://51.210.199.20/hls/stream.m3u8
 #EXTINF:-1 tvg-id="BeverlyHillbillies.us" tvg-logo="https://i.imgur.com/OV9hT93.png" group-title="Classic",Pluto TV Beverly Hillbillies (720p)
@@ -36,31 +40,39 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f15e32b297f960007
 #EXTINF:-1 tvg-id="ClassicTVDrama.us" tvg-logo="https://i.imgur.com/XHQxv0x.png" group-title="Classic",Pluto TV Classic TV Drama (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f15e3cccf49290007053c67/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f15e3cccf49290007053c67&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=520&terminate=false&userId=
 #EXTINF:-1 tvg-id="DoctorWhoClassic.us" tvg-logo="https://i.imgur.com/5vtPBfj.png" group-title="Classic",Pluto TV Doctor Who Classic (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ce4475cd43850831ca91ce7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ce4475cd43850831ca91ce7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ce4475cd43850831ca91ce7&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=532&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVSeriesRetro.us" tvg-logo="https://i.imgur.com/UpgGZJ1.png" group-title="Classic",Pluto TV Series Retro (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-id="TheLoveBoat.us" tvg-logo="https://i.imgur.com/7ad6NQ8.png" group-title="Classic",Pluto TV The Love Boat (720p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7794a788d29000079d2f07/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="PrimeTimeDrama.us" tvg-logo="https://i.imgur.com/ZRhl93p.png" group-title="Classic",Prime Time Drama
 https://simultv.s.llnwi.net/o064/PrimeTimeDrama/interlink.m3u8
-#EXTINF:-1 tvg-id="QwestTVClassical.fr" tvg-logo="https://i.imgur.com/IRJ1FgR.png" group-title="Classic;Music",Qwest TV Classical (720p) [Geo-blocked]
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestclassic-uk-samsungtv/playlist.m3u8
+#EXTINF:-1 tvg-id="Pro100TV.ru" tvg-logo="https://i.imgur.com/YfQEflM.png" group-title="Animation;Classic;Entertainment;Family;Movies",Pro100TV
+https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
+#EXTINF:-1 tvg-id="RetroTVEast.us" tvg-logo="https://i.imgur.com/iUTL0pm.png" group-title="Classic",Radio Ritmo (1080p) [Not 24/7]
+https://59514edd5dd8e.streamlock.net/lax/lax/playlist.m3u8
 #EXTINF:-1 tvg-id="RetroCartoon.br" tvg-logo="https://i.imgur.com/hIlEfhl.png" group-title="Classic",Retrô Cartoon (480p) [Not 24/7]
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+#EXTINF:-1 tvg-id="RetroCrush.us" tvg-logo="https://i.imgur.com/M40b4YI.png" group-title="Animation;Classic",RetroCrush TV (1080p)
+https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/playlist.m3u8?ads.app_bundle=&ads.app_store_url=&ads.consent=0&ads.gdpr=0&ads.plex_id=5ef4e1b40d9ad000423c442a&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.psid=&ads.targetopt=1&ads.ua=Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/84.0.4147.89+Safari/537.36+OPR/70.0.3728.71&ads.us_privacy=1---&ads.wurl_channel=491&ads.wurl_name=RetroCrush
 #EXTINF:-1 tvg-id="RotanaClassic.sa" tvg-logo="https://i.imgur.com/pMMUvkt.png" group-title="Classic",Rotana Classic (1080p)
-https://rotanastudios-rotanaclassic-1-eu.xiaomi.wurl.tv/playlist.m3u8
+https://daiconnect.com/live/hls/rotana/classical/.m3u8
 #EXTINF:-1 tvg-id="STIRRClassicTV.us" tvg-logo="https://i.imgur.com/jOA4Vtt.png" group-title="Classic",STIRR Classic TV (768p)
 https://dai.google.com/linear/hls/event/8JiQCLfVQw6d7uCYt0qDJg/master.m3u8
-#EXTINF:-1 tvg-id="TheArchive.us" tvg-logo="https://od.lk/s/MF8yMjg0MDgzNDBf/TheArchive_300x300.png" group-title="Classic",STIRR The Archive (720p)
-https://dai.google.com/linear/hls/event/MdbYPXWRStmMq1DaQhsBUw/master.m3u8
 #EXTINF:-1 tvg-id="TCMEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/512px-TCM_2021.svg.png" group-title="Classic;Movies",TCM East (720p) [Geo-blocked]
-https://tve-live-lln.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-id="TCMWest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/512px-TCM_2021.svg.png" group-title="Classic;Movies",TCM West (720p) [Geo-blocked]
-https://tve-live-lln.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1 tvg-id="TheCarolBurnettShow.us" tvg-logo="https://i.imgur.com/1a03FlX.png" group-title="Classic",The Carol Burnett Show (1080p)
-https://carolburnett-roku.amagi.tv/playlist.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 tvg-id="TheArchive.us" tvg-logo="https://od.lk/s/MF8yMjg0MDgzNDBf/TheArchive_300x300.png" group-title="Classic",The Archive (540p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthearchive/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="TheCarolBurnettShow.us" tvg-logo="https://i.imgur.com/1a03FlX.png" group-title="Classic",The Carol Burnett Show
+https://amg00163-shoutfactory-carolburnett-dmr-cpk9r.amagi.tv/playlist/amg00163-shoutfactory-carolburnett-dmr/playlist.m3u8
 #EXTINF:-1 tvg-id="TheTimConwayShow.us" tvg-logo="https://i.imgur.com/9uzmRTP.png" group-title="Classic",The Tim Conway Show (720p)
 https://dai.google.com/linear/hls/event/v51OvZmXQOizl-KOgpXw1Q/master.m3u8
 #EXTINF:-1 tvg-id="ThikrayatTV.sa" tvg-logo="https://i.imgur.com/AKa1X9d.png" group-title="Classic",Thikrayat TV (1080p) [Not 24/7]
 https://edge.taghtia.com/sa/3.m3u8
+#EXTINF:-1 tvg-id="TVN3.cl" tvg-logo="https://i.imgur.com/9LEiQPJ.png" group-title="Classic",TVN3 (1080p) [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 #EXTINF:-1 tvg-id="TVSCipherNetwork.us" tvg-logo="https://i.imgur.com/yyz1S2W.png" group-title="Classic",TVS Cipher Network (360p)
 https://rpn1.bozztv.com/36bay2/gusa-tvsmystery/index.m3u8
 #EXTINF:-1 tvg-id="TVSClassicMovies.us" tvg-logo="https://i.imgur.com/st1xMsw.png" group-title="Classic",TVS Classic Movies (288p)
@@ -84,10 +96,16 @@ https://rpn1.bozztv.com/36bay2/gusa-petparadenetwork/index.m3u8
 #EXTINF:-1 tvg-id="TVSQuizShowNetwork.us" tvg-logo="https://i.imgur.com/5ljQwx2.png" group-title="Classic",TVS Quiz Show Network (720p)
 https://rpn1.bozztv.com/36bay2/gusa-tvsgameshow/index.m3u8
 #EXTINF:-1 tvg-id="TVSRetro.gt" tvg-logo="https://i.imgur.com/jdnHci0.png" group-title="Classic",TVS Retro (720p)
-http://204.12.202.90:8080/playgt/playgt2023/60
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:-1 tvg-id="TVSTalkNetwork.us" tvg-logo="https://i.imgur.com/WsaVAhx.png" group-title="Classic",TVS Talk Network (360p)
+https://rpn.bozztv.com/36bay2/gusa-TVStalk/index.m3u8
 #EXTINF:-1 tvg-id="TVSTallyHo.us" tvg-logo="https://i.imgur.com/JlFwnDD.png" group-title="Classic",TVS Tally Ho (360p)
 https://rpn1.bozztv.com/36bay2/gusa-tvstallyho/index.m3u8
 #EXTINF:-1 tvg-id="TVSTavern.us" tvg-logo="https://i.imgur.com/3GTIs4j.png" group-title="Classic",TVS Tavern (480p)
 https://rpn1.bozztv.com/36bay2/gusa-tavern/index.m3u8
 #EXTINF:-1 tvg-id="TVSWesternMovie.us" tvg-logo="https://i.imgur.com/dwr98qb.png" group-title="Classic",TVS Western Movie (270p)
 https://rpn1.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
+#EXTINF:-1 tvg-id="XtremaRetroCartoons.ar" tvg-logo="https://i.imgur.com/60ylWbQ.png" group-title="Animation;Classic;Kids",Xtrema Retro Cartoons (360p)
+https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaRetroSeries.ar" tvg-logo="https://i.imgur.com/ejBa7n3.png" group-title="Classic;Series",Xtrema Retro Series (360p)
+https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8

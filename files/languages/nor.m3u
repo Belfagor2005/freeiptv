@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/no/allente.se.xml,https://iptv-org.github.io/epg/guides/no/frikanalen.no.xml,https://iptv-org.github.io/epg/guides/sv/tv24.se.xml"
+#EXTM3U
 #EXTINF:-1 tvg-id="Frikanalen.no" tvg-logo="https://i.imgur.com/rY3Owxl.png" group-title="Undefined",Frikanalen (720p)
 https://frikanalen.no/stream/index.m3u8
 #EXTINF:-1 tvg-id="NRK1.no" tvg-logo="https://i.imgur.com/9tj8ds7.png" group-title="Undefined",NRK 1 [Geo-blocked]
@@ -11,3 +11,7 @@ https://nrk-nrk3.akamaized.net/23/0/hls/nrk_3/playlist.m3u8
 https://nrk-nrksuper.akamaized.net/23/0/hls/nrk_super/playlist.m3u8
 #EXTINF:-1 tvg-id="TV2Sport1.no" tvg-logo="https://i.imgur.com/asKHqNZ.png" group-title="Sports",TV 2 Sport 1 (720p)
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
+#EXTINF:-1 tvg-id="TVModum.no" tvg-logo="https://i.imgur.com/kljua5X.png" group-title="General",TV Modum (720p)
+https://cdn010.panaccess.com/5677_streams/TVMODUM/index.m3u8
+#EXTINF:-1 tvg-id="TVOstfold.no" tvg-logo="https://i.ibb.co/HHxGQGD/TVO-kanalbanner-page-0002-1-removebg-preview-300x94.png" group-title="General",TV Østfold (1080p)
+https://streamnorge.com:8088/hls/tvo.m3u8
